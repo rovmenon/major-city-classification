@@ -9,7 +9,7 @@ Predicting location based on photos
 - Trained model can be downloaded from https://drive.google.com/file/d/17zhQKmXCyXyZRABUbG-j5DvE9JNdiUGP/view?usp=drive_link
 
 # preprocessing
-- This folder contains different augment classes that were used to preprocess the data before fitting the model.
+- The preprocessing files contains different augment classes that were used to preprocess the data before fitting the model.
 
 # EDA.ipynb
 - Contains our eploratory data analysis code. We load in the dataframes from Kaggle, visualizing the distribution of images and photo year as well as looking at picture frequency by month and city.
